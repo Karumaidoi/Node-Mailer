@@ -1,0 +1,17 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "description": "supabase functions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "supabase"
+  ],
+  "author": "alex maina",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.5"
+  }
+}
